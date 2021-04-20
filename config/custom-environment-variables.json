@@ -1,0 +1,7 @@
+{
+  "fieldFromEnvFile": "ENV_FIELD",
+  "fieldNotFromEnvFile": "INVALID_ENV_FIELD",
+  "nested": {
+    "nestedFieldFromEnvFile": "NESTED_ENV_FIELD"
+  }
+}
